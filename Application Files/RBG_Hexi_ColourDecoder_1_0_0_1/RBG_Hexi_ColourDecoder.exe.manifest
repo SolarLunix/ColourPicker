@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RBG_Hexi_ColourDecoder.exe" version="1.0.0.1" publicKeyToken="6d055c731c2ace77" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RBG_Hexi_ColourDecoder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="RBG_Hexi_ColourDecoder.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RBG_Hexi_ColourDecoder.exe" size="16288">
+      <assemblyIdentity name="RBG_Hexi_ColourDecoder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>1d9AnIS5mHp+FvZp3+B+Yb1Zqe4a0D1OvW2XqoLEHhs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="RBG_Hexi_ColourDecoder.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ECLIPSE\HP" issuerKeyHash="47c7a8f6eebfe45541494a32227f13326badf30e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>VpVcWtzVrKimTRlXWVj5JzMkjxmhqLBJ1sKvl68nBEo=</DigestValue></Reference></SignedInfo><SignatureValue>bIKQP2zVKHl5ryISenF8+u0Zbq941RxlS/f0Y800aUOQxZrZZJTPwfQaiN5c2a5ba14p97zJzSHuzY0dGPLd1ShE/QwmifamflGFuVl+bSswTXoCzBH7nMMOk8ERooIckh13uqF/Pj+xEJUvdbvdMhkKwHAithbgdrOs4bO/gOw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>jizQ1kBy8UNqrwh56c9P8ByQv3kJF0yP36+YKwKAxwX/8Ih5fTjkdFQ1GB7r9wBEYnLpUL63xAbYvFgkCaq0WKiVBY0VUZRCepFvywVmdScKbL25d5TAdZk7CqO6Sg8BmxodY5PpXa0ohQC8S45NoMOJSClUhaGCb3vnFyZNqPU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4a0427af97afc2d649b0a8a1198f243327f9585957194da6a8acd5dc5a5c9556" Description="" Url=""><as:assemblyIdentity name="RBG_Hexi_ColourDecoder.exe" version="1.0.0.1" publicKeyToken="6d055c731c2ace77" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ECLIPSE\HP</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>cS5T0uMFsJsklTL8hwJOLxaaho8qtt25XUKMTPc1R5M=</DigestValue></Reference></SignedInfo><SignatureValue>jbfyNs4G4f46y7ysSBGI32muNrLM/UalFEJUjLECBNmvacXE2+8P1LiIyEgUNxScIFHFPj5ATVXQnZlYv9Ws7mAtc6I2tuzy9ePv8X4D+oG+OEZBpHAlZeJXkJiBPhcsdTii3kU+bq5cv0bxWlubGcsQF3bw1ZV2zb+yAN1zVfs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>jizQ1kBy8UNqrwh56c9P8ByQv3kJF0yP36+YKwKAxwX/8Ih5fTjkdFQ1GB7r9wBEYnLpUL63xAbYvFgkCaq0WKiVBY0VUZRCepFvywVmdScKbL25d5TAdZk7CqO6Sg8BmxodY5PpXa0ohQC8S45NoMOJSClUhaGCb3vnFyZNqPU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQOXIvUY14MoJIkAF1upXUKDANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQARQBDAEwASQBQAFMARQBcAEgAUDAeFw0xNjA1MjIyMzIzMzFaFw0xNzA1MjMwNTIzMzFaMB8xHTAbBgNVBAMeFABFAEMATABJAFAAUwBFAFwASABQMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCOLNDWQHLxQ2qvCHnpz0/wHJC/eQkXTI/fr5grAoDHBf/wiHl9OOR0VDUYHuv3AERiculQvrfEBti8WCQJqrRYqJUFjRVRlEJ6kW/LBWZ1Jwpsvbl3lMB1mTsKo7pKDwGbGh1jk+ldrSiFALxLjk2gw4lIKVSFoYJve+cXJk2o9QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAIQfN12ELv7UD3Om6wu/GRj7AiZvttPoGrETIuDAJQafNS+uHBmgueMIkR9fLEWIbZkGXcYuWPpSqta4uU3RBR4e7U7CyEkDXcvviIktuBO6ajgP1F8tT152yR41eyUfmMUEyj4iQ7vZ9hbzYULFkRSAKWY2ZVTIOQ4qFzQ+nEJP</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

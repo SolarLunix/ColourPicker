@@ -1,0 +1,23 @@
+c:\users\hp\documents\visual studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\bin\Debug\RBG_Hexi_ColourDecoder.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\bin\Debug\RBG_Hexi_ColourDecoder.exe
+c:\users\hp\documents\visual studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\bin\Debug\RBG_Hexi_ColourDecoder.pdb
+c:\users\hp\documents\visual studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.exe
+c:\users\hp\documents\visual studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\bin\Debug\RBG_Hexi_ColourDecoder.exe.manifest
+C:\Users\HP\Documents\Visual Studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\bin\Debug\RBG_Hexi_ColourDecoder.application
+C:\Users\HP\Documents\Visual Studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.exe.manifest
+C:\Users\HP\Documents\Visual Studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.application
+C:\Users\HP\Documents\Visual Studio 2015\Projects\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.csprojResolveAssemblyReference.cache
+D:\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\bin\Debug\RBG_Hexi_ColourDecoder.exe.config
+D:\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.exe
+D:\RBG_Hexi_ColourDecoder\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.pdb
+F:\GIT\ColourPicker\ColourPicker\RBG_Hexi_ColourDecoder\bin\Debug\RBG_Hexi_ColourDecoder.exe.config
+F:\GIT\ColourPicker\ColourPicker\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.exe
+F:\GIT\ColourPicker\ColourPicker\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.pdb
+F:\GIT\ColourPicker\ColourPicker\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.csprojResolveAssemblyReference.cache
+F:\GIT\ColourPicker\ColourPicker\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.Form1.resources
+F:\GIT\ColourPicker\ColourPicker\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.Properties.Resources.resources
+F:\GIT\ColourPicker\ColourPicker\RBG_Hexi_ColourDecoder\obj\Debug\RBG_Hexi_ColourDecoder.csproj.GenerateResource.Cache
